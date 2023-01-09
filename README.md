@@ -1,5 +1,7 @@
 # Server Side Rendering Example
 
+This a copy of https://github.com/module-federation/module-federation-examples/tree/master/server-side-rendering with some minor adjustments to do some research.
+
 Module Federation Server Side Rendering example using React Suspense.
 
 This example demonstrates a basic shell application loading remote components and rendering them server side.
